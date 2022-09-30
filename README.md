@@ -1,5 +1,5 @@
 # AV1 - Estacio
-Primeira avaliação - segundo semestre de ADS
+### Primeira avaliação - Curso Analise e Desenvolvimento de Sistemas
 
 ## Integrantes:
 ### Augusto Ribeiro Prestes da Silva - 202212008241
